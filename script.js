@@ -14,6 +14,7 @@ for (let i = 0; i < 28; i += 1) {
     }
     if (i === 0) {
         td.textContent = "Квіточка";
+        td.style.color="gray";
     }
 }
 for (let i = 0; i < 28; i += 1) {
@@ -24,6 +25,7 @@ for (let i = 0; i < 28; i += 1) {
     }
     if (i === 0) {
         td.textContent = "Таня";
+        td.style.color="gray";
     }
 }
 for (let i = 0; i < 28; i += 1) {
@@ -34,6 +36,7 @@ for (let i = 0; i < 28; i += 1) {
     }
     if (i === 0) {
         td.textContent = "Мирося";
+        td.style.color="gray";
     }
 }
 for (let i = 0; i < 28; i += 1) {
