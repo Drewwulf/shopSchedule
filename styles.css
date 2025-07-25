@@ -1,0 +1,9 @@
+.t1{
+ text-align: center;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px solid;
+    padding: 20px;
+}
