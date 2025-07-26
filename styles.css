@@ -1,9 +1,9 @@
-.t1{
- text-align: center;
-    border: 1px solid;
-    border-collapse: collapse;
+
+#op
+{
+    height: 131px;
 }
-td,th{
-    border: 1px solid;
-    padding: 20px;
+td
+{
+    height: 100%;
 }
