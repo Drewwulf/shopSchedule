@@ -4,6 +4,31 @@
     border-collapse: collapse;
 }
 td,th{
-    border: 1px solid;
+
     padding: 20px;
+    border-collapse: collapse;
+    border: 1px solid;
 }
+.v1{
+   background-image: url('https://pibig.info/uploads/posts/2022-11/1669755432_1-pibig-info-p-serii-fon-dlya-prezentatsii-oboi-1.jpg')
+
+}
+.b1{
+   font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #767676;
+    transition: 1s;
+
+
+}
+.b1:hover{
+   text-shadow: 5px 5px 5px #6300ff;
+    color: black;
+    transform: scale(1.1)
+
+}
+.e1{
+    border-collapse: collapse;
+}
+
+
