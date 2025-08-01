@@ -9,7 +9,7 @@ function y()
      {
 
         let ii = document.createElement("td");
-        ii.style.transform = "rotate(-90deg)";
+
          pp.appendChild(ii);
          im.setDate(im.getDate()+1);
          if(u != 0)

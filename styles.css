@@ -1,9 +1,52 @@
 
 #op
 {
-    height: 131px;
+
 }
 td
 {
-    height: 100%;
+
+}
+th, td
+{
+    border: 1px solid;
+
+}
+.oopp
+{
+    border-collapse: collapse;
+    background-color: purple;
+}
+.good
+{
+    text-align: center;
+    color: purple;
+    transition: 1s;
+
+
+}
+.good:hover
+{
+  transform: scale(1.1);
+    text-shadow: 5px 5px 5px mediumpurple;
+    color: rebeccapurple;
+
+}
+.kll
+{
+    background-image: url(https://i.redd.it/7h2qw1jl51b81.jpg);
+}
+
+.v
+{
+     background-color: mediumpurple;
+}
+
+.v:hover
+{
+    transform: scale(1.1);
+}
+#mateo
+{
+    background-color: rebeccapurple;
 }
