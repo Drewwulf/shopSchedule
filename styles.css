@@ -1,7 +1,7 @@
 
-#op
+#op td
 {
-
+background-color: rgb(255, 215, 0);
 }
 td
 {
@@ -9,19 +9,27 @@ td
 }
 th, td
 {
-    border: 1px solid;
+    border: 5px solid;
 
 }
 .oopp
 {
     border-collapse: collapse;
-    background-color: purple;
+  color: mediumpurple;
+  background-color: #B3FFC6;
+
+
 }
 .good
 {
     text-align: center;
     color: purple;
     transition: 1s;
+    width: 15%;
+
+    margin: 0 auto;
+
+
 
 
 }
@@ -30,6 +38,8 @@ th, td
   transform: scale(1.1);
     text-shadow: 5px 5px 5px mediumpurple;
     color: rebeccapurple;
+    animation-name: animation1;
+    animation-duration: 3s;
 
 }
 .kll
@@ -48,5 +58,20 @@ th, td
 }
 #mateo
 {
-    background-color: rebeccapurple;
+    background-color: mediumorchid;
+        ;
+}
+@keyframes animation1{
+0%
+{
+ width: 30%;
+}
+50%
+{
+  width: 100%;
+    background-color: mediumpurple;
+    border-radius: 20%;
+}
+
+
 }
